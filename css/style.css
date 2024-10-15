@@ -1,0 +1,66 @@
+
+/* mouse click event start  */
+.mouseEventContainer{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+#mouseDown{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    background-color: darkgoldenrod;
+}
+#mouseUp{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    background-color: blue;
+}
+#mouseClick{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    background-color: green;
+}
+#dblclick{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    background-color: darkolivegreen;
+}
+#mouseOver{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    background-color: darkred;
+}
+#mouseOut{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(114, 80, 117);
+}
+#mouseEnter{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(163, 85, 32);
+}
+
+#mouseLeave{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(32, 82, 35);
+}
+/* mouse click event end */
